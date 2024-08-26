@@ -7,11 +7,6 @@ HTML5
 CSS3
 Directory Structure
 The project structure is as follows:
-
-kkk/Html/kajal
-├── kajal.html
-├── style1.css
-└── README.md
 Sure! Here's a detailed README file for the kkk/Html/kajal project:
 
 kkk/Html/kajal
@@ -26,12 +21,6 @@ HTML5
 CSS3
 Directory Structure
 The project structure is as follows:
-
-kkk/Html/kajal
-├── kajal.html
-├── style1.css
-└── README.md
-How to Run
 To run this project locally, follow these steps:
 
 Clone the repository: git clone https://github.com/your-username/kkk.git
